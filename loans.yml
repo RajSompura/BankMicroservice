@@ -6,7 +6,7 @@ loans:
   message: "Hello welcome to my bank(local)  for loans MS"
   contactDetails:
     name: "raj_sompura"
-    email: "raj@gmail.com"
+    email: "{cipher}18aab93051eaa1fb63edc4016f0634c0f1b22d92249f8d11f517c781eabf9228"
   onCallSupport:
     - 9687789895
     - 9687789896
