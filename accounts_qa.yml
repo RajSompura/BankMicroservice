@@ -1,0 +1,16 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to EazyBank accounts related QA APIs for accounts MS"
+  contactDetails:
+    name: "Rohit - QA Lead"
+    email: "rohit@gmail.com"
+  onCallSupport:
+    - (666) 265-3765
+    - (666) 734-8371

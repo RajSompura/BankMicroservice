@@ -1,0 +1,12 @@
+build:
+  version:
+    3.0
+
+loans:
+  message: "Hello welcome to my bank(local)  for loans MS"
+  contactDetails:
+    name: "raj_sompura"
+    email: "raj@gmail.com"
+  onCallSupport:
+    - 9687789895
+    - 9687789896
