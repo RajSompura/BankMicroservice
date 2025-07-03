@@ -7,7 +7,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs for accounts MicroService"
+  message: "Welcome to EazyBank accounts related QA APIs for accounts MicroService Test"
   contactDetails:
     name: "Rohit - QA Lead"
     email: "rohit@gmail.com"
