@@ -7,7 +7,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to bank cards related prod APIs  for cards MS"
+  message: "Welcome to bank cards related prod APIs  for cards Microservice"
   contactDetails:
     name: "Yash - Product Owner"
     email: "yash@gmail.com"
