@@ -3,7 +3,7 @@ build:
     3.0
 
 accounts:
-  message: "Hello welcome to my bank(local)  for accounts MS"
+  message: "Hello welcome to my bank(local)  for accounts MicroService"
   contactDetails:
     name: "raj_sompura"
     email: "raj@gmail.com"
